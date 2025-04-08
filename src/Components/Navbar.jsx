@@ -1,6 +1,6 @@
 import "../Styles/Navbar.css"
-// import { BsGlobe } from "react-icons/bs";
-// import { FaAngleDown } from "react-icons/fa6";
+import { BsGlobe } from "react-icons/bs";
+import { FaAngleDown } from "react-icons/fa6";
 export const Navbar = () => {
     return (
         <div className="logoMainDiv">
@@ -15,8 +15,7 @@ export const Navbar = () => {
                     <li>Internet</li>
                     <li>Directv</li>
                     <li>About us</li>
-                    {/* <li><BsGlobe /> < FaAngleDown /></li> */}
-                    <li><img src="global.jpeg" alt="" /></li>
+                    <li><BsGlobe /> < FaAngleDown /></li>
                 </ul>
             </div>
             <div className="logoPara">

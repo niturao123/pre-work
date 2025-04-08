@@ -1,0 +1,42 @@
+.mainDiv{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.mainPara{
+    background-color: black;
+    width: 910px;
+    height: 420px;
+}
+.mainPara p{
+    color: white;
+    margin-left: 2%;
+
+}
+.mainPara hr{
+    border: none;
+    background-color: #FFFFFF26;
+    height: 2px;
+}
+.firstpara{
+    font-size: 20px;
+}
+.mainPara p:nth-of-type(2) {
+    width: 46%;
+}
+.cirlceDiv{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.circle{
+    color: white;
+}
+.hrline{
+    margin-top: 8%;
+}
+.mainimg img{
+    width: 910px;
+    height: 420px;
+}
