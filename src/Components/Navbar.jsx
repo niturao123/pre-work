@@ -15,7 +15,9 @@ export const Navbar = () => {
                     <li>Internet</li>
                     <li>Directv</li>
                     <li>About us</li>
+                    <div className="bsGlobe">
                     <li><BsGlobe /> < FaAngleDown /></li>
+                    </div>
                 </ul>
             </div>
             <div className="logoPara">

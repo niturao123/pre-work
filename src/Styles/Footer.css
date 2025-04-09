@@ -1,0 +1,67 @@
+.products-Div {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 30%;
+
+
+}
+
+.product-Div {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 35%;
+  gap: 180px;
+  margin-top: 5%;
+
+}
+
+.product-Div div hr {
+  border: none; 
+  height: 3px;
+  background-color: #FFFFFF26; 
+  width: 450px; 
+}
+
+.products-Div div hr {
+  border: none; 
+  height: 3px;
+  background-color: #FFFFFF26; 
+  width: 450px; 
+}
+.footerMainDiv {
+  background-color: black;
+  color: white;
+  height: 620px;
+}
+.logo-Div{
+  display: flex;
+  gap: 10px;
+}
+.logo-Div p{
+  font-size: 40px;
+  margin-top: 1%;
+}
+.footerlogo-img {
+  height: 30px;
+  margin-top: 1.2%;
+  margin-left: 1%;
+
+}
+.copyrightDiv {
+  display: flex;
+  gap: 400px;
+  margin-top: 4%;
+  
+}
+.priacy{
+  position: absolute;
+  left: 35%;
+}
+.cookie{
+  position: absolute;
+  left: 70%;
+}
+.allright{
+  position: absolute;
+  left: 2%;
+}

@@ -1,38 +1,52 @@
-.logoMainDiv{
+.logoMainDiv {
     display: flex;
     justify-content: space-between;
 }
-.listDiv ul{
+
+.listDiv ul {
     display: flex;
     gap: 20px;
     background-color: #00000012;
-    padding: 8px;
+    padding: 15px;
+    border-radius: 7px;
+
 
 }
-.listDiv ul li{
-    list-style-type: none; 
-    font-size: 20px;
+
+.listDiv ul li {
+    list-style-type: none;
+    font-size: 25px;
+    color: #252525;
 }
-.listDiv ul li img{
+
+.listDiv ul li img {
     width: 40px;
     height: 30px;
 }
-/* .listDiv ul li:hover{
- 
-} */
-.logoDiv{
+
+.bsGlobe {
+    background-color: #CBCAC9;
+    height: 30px;
+    padding-top: 5px;
+    padding: 5px;
+}
+
+.logoDiv {
     display: flex;
     gap: 10px;
 
 }
-.logo-img{
+
+.logo-img {
     height: 50px;
 }
-.logoDiv p{
+
+.logoDiv p {
     font-size: 35px;
-    margin-top: 6px;
+    margin-top: 10px;
 }
-.logoPara p{
+
+.logoPara p {
     background-color: #66DC99;
     padding: 16px;
     border-radius: 30px;

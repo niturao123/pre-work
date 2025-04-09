@@ -1,0 +1,20 @@
+.boxsDiv{
+    display: flex;
+    gap: 100px;
+}
+.boxsDiv hr{
+    margin-top: 30%;
+}
+.Tittle{
+    font-size: 30px;
+}
+.sectionDiv{
+    border: 1px solid #ebe8e8;
+    border-radius: 5px;
+}
+.mainpara{
+    font-size: 20px;
+}
+.Boxes-Div{
+    height: 500px;
+}
