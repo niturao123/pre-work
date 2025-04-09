@@ -11,57 +11,65 @@
   justify-content: space-around;
   margin-left: 35%;
   gap: 180px;
-  margin-top: 5%;
+  margin-top: 2%;
 
 }
 
 .product-Div div hr {
-  border: none; 
+  border: none;
   height: 3px;
-  background-color: #FFFFFF26; 
-  width: 450px; 
+  background-color: #FFFFFF26;
+  width: 450px;
 }
 
 .products-Div div hr {
-  border: none; 
+  border: none;
   height: 3px;
-  background-color: #FFFFFF26; 
-  width: 450px; 
+  background-color: #FFFFFF26;
+  width: 450px;
 }
+
 .footerMainDiv {
   background-color: black;
   color: white;
-  height: 620px;
+  height: 550px;
 }
-.logo-Div{
+
+.logo-Div {
   display: flex;
   gap: 10px;
 }
-.logo-Div p{
+
+.logo-Div p {
   font-size: 40px;
   margin-top: 1%;
 }
+
 .footerlogo-img {
   height: 30px;
   margin-top: 1.2%;
   margin-left: 1%;
 
 }
+
 .copyrightDiv {
   display: flex;
   gap: 400px;
-  margin-top: 4%;
-  
+  margin-top: 2%;
+
 }
-.priacy{
+
+.priacy {
   position: absolute;
   left: 35%;
 }
-.cookie{
+
+.cookie {
   position: absolute;
   left: 70%;
 }
-.allright{
+
+.allright {
   position: absolute;
   left: 2%;
 }

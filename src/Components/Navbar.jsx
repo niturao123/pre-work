@@ -16,7 +16,7 @@ export const Navbar = () => {
                     <li>Directv</li>
                     <li>About us</li>
                     <div className="bsGlobe">
-                    <li><BsGlobe /> < FaAngleDown /></li>
+                        <li><BsGlobe /> < FaAngleDown /></li>
                     </div>
                 </ul>
             </div>

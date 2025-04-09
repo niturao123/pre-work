@@ -9,24 +9,24 @@ export const MainComponent1 = () => {
                 <hr className="hrline" />
                 <div className="cirlceDiv">
                     <p>Wireless</p>
-                    <FiPlusCircle className="circle"/>
+                    <FiPlusCircle className="circle" />
                 </div>
                 <hr />
 
                 <div className="cirlceDiv">
                     <p>Internet</p>
-                    <FiPlusCircle className="circle"/>
+                    <FiPlusCircle className="circle" />
 
                 </div>
                 <hr />
 
                 <div className="cirlceDiv">
                     <p>Directv</p>
-                    <FiPlusCircle className="circle"/>
+                    <FiPlusCircle className="circle" />
                 </div>
                 <hr />
             </div>
- 
+
             <div className="mainimg">
                 <img src="main1Img.jpeg" alt="" />
             </div>

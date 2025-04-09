@@ -1,20 +1,25 @@
-.boxsDiv{
+.boxsDiv {
     display: flex;
     gap: 100px;
 }
-.boxsDiv hr{
+
+.boxsDiv hr {
     margin-top: 30%;
 }
-.Tittle{
+
+.Tittle {
     font-size: 30px;
 }
-.sectionDiv{
+
+.sectionDiv {
     border: 1px solid #ebe8e8;
     border-radius: 5px;
 }
-.mainpara{
+
+.mainpara {
     font-size: 20px;
 }
-.Boxes-Div{
+
+.Boxes-Div {
     height: 500px;
 }

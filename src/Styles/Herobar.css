@@ -1,10 +1,10 @@
-.HerobarDiv img{
+.HerobarDiv img {
     height: 740px;
     width: 1825px;
     position: relative;
 }
 
-.HerobarDiv p{
+.HerobarDiv p {
     color: white;
     font-size: 70px;
     position: absolute;

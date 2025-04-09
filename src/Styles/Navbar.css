@@ -1,13 +1,15 @@
 .logoMainDiv {
     display: flex;
     justify-content: space-between;
+    height: 70px;
+    align-items: center;
 }
 
 .listDiv ul {
     display: flex;
     gap: 20px;
     background-color: #00000012;
-    padding: 15px;
+    padding: 8px 8px 8px 15px;
     border-radius: 7px;
 
 
@@ -33,17 +35,18 @@
 
 .logoDiv {
     display: flex;
-    gap: 10px;
+    gap: 5px;
 
 }
 
 .logo-img {
     height: 50px;
+    margin-top: 4%;
 }
 
 .logoDiv p {
     font-size: 35px;
-    margin-top: 10px;
+    margin-top: 6%;
 }
 
 .logoPara p {

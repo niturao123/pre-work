@@ -3,12 +3,12 @@ export const MainComponents4 = () => {
     return (
         <div className="Boxes-Div">
             <p className="Tittle">Why Velionex</p>
-            <div className="boxsDiv">            
+            <div className="boxsDiv">
                 <section className="sectionDiv">
-                <p className="Tittle">Reliable Connections</p>
-                <hr />
-                <p className="mainpara">Velionex ensures consistent, high-speed internet, so you’re always connected when it matters most.</p>
-            </section>
+                    <p className="Tittle">Reliable Connections</p>
+                    <hr />
+                    <p className="mainpara">Velionex ensures consistent, high-speed internet, so you’re always connected when it matters most.</p>
+                </section>
                 <section className="sectionDiv">
                     <p className="Tittle">Tailored Solutions</p>
                     <hr />
